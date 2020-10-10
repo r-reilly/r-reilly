@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Bex
+
+🔭 I’m currently working at Dictionary.com building the [Writing Tool](https://www.thesaurus.com/writingtool)
+
+⚡ Check out my [resume](https://r-reilly.github.io/resume/)
 
 <!--
 **r-reilly/r-reilly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
