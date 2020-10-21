@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Bex
 
-🔭 I’m currently working at Dictionary.com building the [Writing Tool](https://www.thesaurus.com/writingtool)
+🔭 I’m currently working at Dictionary.com building the [Grammar Coach](https://www.thesaurus.com/grammarcoach)
 
 ⚡ Check out my [resume](https://r-reilly.github.io/resume/)
 
