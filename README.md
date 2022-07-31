@@ -1,6 +1,8 @@
 ### Hi there 👋 I'm Bex
 
-🔭 I’m currently working as a Product Manager!
+📕 MS in Data Science
+
+🔭 Product Manager @ Shipt
 
 ⚡ Check out my [resume](https://r-reilly.github.io/resume/)
 
