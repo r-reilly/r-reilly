@@ -1,4 +1,4 @@
-### Bex
+<!--### Bex
 
 📕 MS in Data Science
 
@@ -6,7 +6,7 @@
 
 ⚡ Check out my [resume](https://r-reilly.github.io/resume/)
 
-<!--
+
 **r-reilly/r-reilly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
